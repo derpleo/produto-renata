@@ -1,0 +1,3 @@
+Título: Planner de Eventos y Pedidos
+
+Descripción: Un planner imprimible para organizar fechas, materiales y entregas cuando armas cajitas para varios eventos o clientes. Imprime las hojas que necesites y lleva todo bajo control.

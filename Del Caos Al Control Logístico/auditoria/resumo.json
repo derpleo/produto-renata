@@ -1,0 +1,17 @@
+{
+  "produto": "Del Caos Al Control Logístico",
+  "atualizado": "2026-11-07T16:51:03-03:00",
+  "status": "PRONTO-DIGITAL",
+  "faltas": [],
+  "pendencias_manuais": [
+    "cartão de checkout (Canva)"
+  ],
+  "contagens": {
+    "principal": 1,
+    "bonus": 5,
+    "super_bonus": 2,
+    "orderbumps": 5,
+    "imagens": 22,
+    "criativos": 4
+  }
+}

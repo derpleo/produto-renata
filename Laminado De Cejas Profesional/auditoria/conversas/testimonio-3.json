@@ -1,0 +1,25 @@
+{
+  "contactName": "Lucía Fernández",
+  "contactSub": "",
+  "avatarColor": "#b14a72",
+  "dateText": "Hoy",
+  "showDate": true,
+  "showEnc": true,
+  "messages": [
+    {
+      "side": "received",
+      "text": "¿El material incluye una agenda para organizar las atenciones?",
+      "time": "16:21"
+    },
+    {
+      "side": "sent",
+      "text": "Sí. El super bono Agenda y Fichas de Atención para tus Servicios se entrega como planilla Excel, con registros para organizar la atención.",
+      "time": "16:25"
+    },
+    {
+      "side": "received",
+      "text": "Quiero revisar cómo se organiza la información de cada servicio.",
+      "time": "16:28"
+    }
+  ]
+}

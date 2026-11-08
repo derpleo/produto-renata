@@ -1,0 +1,25 @@
+{
+  "contactName": "Carolina Restrepo",
+  "contactSub": "",
+  "avatarColor": "#3d6b8a",
+  "dateText": "Hoy",
+  "showDate": true,
+  "showEnc": true,
+  "messages": [
+    {
+      "side": "received",
+      "text": "¿La guía enseña a poner límites sin faltar al respeto?",
+      "time": "10:12"
+    },
+    {
+      "side": "sent",
+      "text": "Sí. El material principal trata comunicación y conversaciones difíciles. Uno de los bonos está dedicado al arte de poner límites.",
+      "time": "10:15"
+    },
+    {
+      "side": "received",
+      "text": "Quiero aprender a expresar mis límites con más claridad.",
+      "time": "10:18"
+    }
+  ]
+}

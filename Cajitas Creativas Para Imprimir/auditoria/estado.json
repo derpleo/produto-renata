@@ -1,0 +1,16 @@
+{
+ "produto": "Cajitas Creativas Para Imprimir",
+ "estagios": {
+  "concluir": {
+   "status": "ok",
+   "msg": "fiados: 15",
+   "quando": "2026-11-07T16:24:59"
+  },
+  "pronto": {
+   "status": "incompleto",
+   "msg": "INCOMPLETO: Cajitas Creativas Para Imprimir",
+   "quando": "2026-11-07T16:25:17"
+  }
+ },
+ "atualizado": "2026-11-07T16:25:17"
+}

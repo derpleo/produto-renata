@@ -1,0 +1,126 @@
+{
+  "product": "Laminado De Cejas Profesional",
+  "count": 22,
+  "concluir_executado": false,
+  "html_preservado": true,
+  "files": [
+    {
+      "slot": "hero",
+      "file": "/home/leonardo/servico/Produtos/projetos/produto-renata/Laminado De Cejas Profesional/mockups/laminado-de-cejas-profesional.png",
+      "sha256": "02fa9d9ea30dfa1a8e3b15a64c53e6b9a17dbea32a77435baeba72f2f13c509b"
+    },
+    {
+      "slot": "adv",
+      "file": "/home/leonardo/servico/Produtos/projetos/produto-renata/Laminado De Cejas Profesional/mockups/imagem-fundo.png",
+      "sha256": "a69e461e6d4f098cc4ca4ea1e49bf7012219f391f3aa693047c509273edcf551"
+    },
+    {
+      "slot": "bono-1",
+      "file": "/home/leonardo/servico/Produtos/projetos/produto-renata/Laminado De Cejas Profesional/mockups/bono-1.png",
+      "sha256": "6009a94d586e5aa3a797f32871486c9ca78707e7aa04ab810d390aabc7ce6191"
+    },
+    {
+      "slot": "bono-2",
+      "file": "/home/leonardo/servico/Produtos/projetos/produto-renata/Laminado De Cejas Profesional/mockups/bono-2.png",
+      "sha256": "deb7ed49ac2401260c7a5415c6c798f4c08357df25fdce9a5499efaf525ed347"
+    },
+    {
+      "slot": "bono-3",
+      "file": "/home/leonardo/servico/Produtos/projetos/produto-renata/Laminado De Cejas Profesional/mockups/bono-3.png",
+      "sha256": "34ad4f10d4bca64bd8fa40b254d1083b329f344050c493c8182502210e6143d6"
+    },
+    {
+      "slot": "bono-4",
+      "file": "/home/leonardo/servico/Produtos/projetos/produto-renata/Laminado De Cejas Profesional/mockups/bono-4.png",
+      "sha256": "09cf1f2f9d2ed649c0c4b79af9cea9a4781150bb172cc75a12e60d047d73e7a0"
+    },
+    {
+      "slot": "bono-5",
+      "file": "/home/leonardo/servico/Produtos/projetos/produto-renata/Laminado De Cejas Profesional/mockups/bono-5.png",
+      "sha256": "00ee3a921d95ae7cc3535bb1f245a12987759e1d997791209b091af110b62086"
+    },
+    {
+      "slot": "super-1",
+      "file": "/home/leonardo/servico/Produtos/projetos/produto-renata/Laminado De Cejas Profesional/mockups/super-bono-1.png",
+      "sha256": "47ee5fdda9bb41d1a1d518d643adef6bf433f00a1ffff94f2ae63cd4b16f41e7"
+    },
+    {
+      "slot": "super-2",
+      "file": "/home/leonardo/servico/Produtos/projetos/produto-renata/Laminado De Cejas Profesional/mockups/super-bono-2.png",
+      "sha256": "0eea783a8b5abe7a837494d79441e75956fc349e3a6badb905561c25ae60f6a3"
+    },
+    {
+      "slot": "bundle",
+      "file": "/home/leonardo/servico/Produtos/projetos/produto-renata/Laminado De Cejas Profesional/mockups/mockup-all.png",
+      "sha256": "b6d0bbbc917af1953b3acf9e631291d6af1c6112cc421c6c2b641fdccdac057b"
+    },
+    {
+      "slot": "testimonio-1",
+      "file": "/home/leonardo/servico/Produtos/projetos/produto-renata/Laminado De Cejas Profesional/html/img/whatsapp-carolina.png",
+      "sha256": "0ef3774c2a646bac123b128b63fafd3df6ba3a60bb25a1ca80e276691e0891aa"
+    },
+    {
+      "slot": "testimonio-2",
+      "file": "/home/leonardo/servico/Produtos/projetos/produto-renata/Laminado De Cejas Profesional/html/img/whatsapp-diego.png",
+      "sha256": "f2c664bf03549df27b25b24a43a6002d7ae6e4302c52fb4e16f2e4a258461d0c"
+    },
+    {
+      "slot": "testimonio-3",
+      "file": "/home/leonardo/servico/Produtos/projetos/produto-renata/Laminado De Cejas Profesional/html/img/whatsapp-lucia.png",
+      "sha256": "f5efc5b5e6a386f3a886b9671989e32df00556240004a403bbdb10aebd7809c0"
+    },
+    {
+      "slot": "ob-1",
+      "file": "/home/leonardo/servico/Produtos/projetos/produto-renata/Laminado De Cejas Profesional/orderbump/produto1/capa_orderbump-1.png",
+      "sha256": "9da09e06180bbbccbb9c8364c3d7a8da40fe63369c44a4fccff190f75ea558cd"
+    },
+    {
+      "slot": "ob-2",
+      "file": "/home/leonardo/servico/Produtos/projetos/produto-renata/Laminado De Cejas Profesional/orderbump/produto2/capa_orderbump-2.png",
+      "sha256": "71ccdfeed4173015685042ef1ae33f3211535b5a9382390851141de18bacbcdb"
+    },
+    {
+      "slot": "ob-3",
+      "file": "/home/leonardo/servico/Produtos/projetos/produto-renata/Laminado De Cejas Profesional/orderbump/produto3/capa_orderbump-3.png",
+      "sha256": "8f9ce3a961616dea8bf002f50d66cfd25466db8f4084d1f9a5703ad72efbbf7e"
+    },
+    {
+      "slot": "ob-4",
+      "file": "/home/leonardo/servico/Produtos/projetos/produto-renata/Laminado De Cejas Profesional/orderbump/produto4/capa_orderbump-4.png",
+      "sha256": "f9c385555636ded521869f2de8c7b047caf209cdd3423ac2900906454c1627b2"
+    },
+    {
+      "slot": "combo",
+      "file": "/home/leonardo/servico/Produtos/projetos/produto-renata/Laminado De Cejas Profesional/orderbump/produto5/capa_combo_de_oro.png",
+      "sha256": "7e5dabfe2d3fa843825a622a4f6e57030921a420ef54622b34474ccc1f197514"
+    },
+    {
+      "slot": "criativo-1",
+      "file": "/home/leonardo/servico/Produtos/projetos/produto-renata/Laminado De Cejas Profesional/criativos/criativo-1.png",
+      "sha256": "abbb6c19ae449c3b68494f58d8089363ca2376918b1631618ea5c10aa7c8efc2"
+    },
+    {
+      "slot": "criativo-2",
+      "file": "/home/leonardo/servico/Produtos/projetos/produto-renata/Laminado De Cejas Profesional/criativos/criativo-2.png",
+      "sha256": "daf0d3d854e8a4f43aaf4ae3e72d2d65cb92cf5c6b995639e7f73396825117c3"
+    },
+    {
+      "slot": "criativo-3",
+      "file": "/home/leonardo/servico/Produtos/projetos/produto-renata/Laminado De Cejas Profesional/criativos/criativo-3.png",
+      "sha256": "647df4b048ffa64030b6dbcba2fffa669e9b64f0558b72291203a2c941666955"
+    },
+    {
+      "slot": "criativo-4",
+      "file": "/home/leonardo/servico/Produtos/projetos/produto-renata/Laminado De Cejas Profesional/criativos/criativo-4.png",
+      "sha256": "5ff877bfda20f84ac07317670ceadb154a896508846c84aa74f72a6c6a7d2f76"
+    }
+  ],
+  "observacao": "Imagens geradas e conversas informativas locais. Mockups com fundo branco, sem remoção de fundo, sem wiring, sem galeria PDF, sem checkout Canva. Auditoria editorial final permanece humana.",
+  "verificacao_algoritmica": {
+    "ok": 22,
+    "total": 22,
+    "falhas": 0,
+    "log": "verificacao-imagens.txt"
+  },
+  "revisao_visual_codex": "Contatos dos 5 produtos, criativos e conversas inspecionados; correções registradas em correcoes.json. Aprovação final do produto não presumida."
+}

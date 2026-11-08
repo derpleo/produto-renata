@@ -1,0 +1,2 @@
+verificar-imagens: Automaquillaje Base Perfecta — 22/22 ok, 1 aviso(s), 0 falha(s)
+  AVISO: testimonio-3: layout parecido com testimonio-1; conferir texto na auditoria visual

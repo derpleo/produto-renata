@@ -1,0 +1,25 @@
+{
+  "contactName": "Carolina Restrepo",
+  "contactSub": "",
+  "avatarColor": "#b5542e",
+  "dateText": "Hoy",
+  "showDate": true,
+  "showEnc": true,
+  "messages": [
+    {
+      "side": "received",
+      "text": "¿Las plantillas indican por dónde cortar y doblar las cajitas?",
+      "time": "10:12"
+    },
+    {
+      "side": "sent",
+      "text": "Sí. Las plantillas en PDF incluyen líneas de corte y doblez. También hay una guía de impresión y armado.",
+      "time": "10:15"
+    },
+    {
+      "side": "received",
+      "text": "Quiero practicar primero con una cajita sencilla.",
+      "time": "10:18"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "contactName": "Carolina Restrepo",
+  "contactSub": "",
+  "avatarColor": "#1f6f78",
+  "dateText": "Hoy",
+  "showDate": true,
+  "showEnc": true,
+  "messages": [
+    {
+      "side": "received",
+      "text": "¿La guía cubre el proceso desde la recepción hasta el despacho?",
+      "time": "10:12"
+    },
+    {
+      "side": "sent",
+      "text": "Sí. La guía principal en PDF organiza el flujo del almacén, desde la compra y recepción hasta el inventario y despacho.",
+      "time": "10:15"
+    },
+    {
+      "side": "received",
+      "text": "Quiero estudiar ese flujo para ordenar cada etapa.",
+      "time": "10:18"
+    }
+  ]
+}

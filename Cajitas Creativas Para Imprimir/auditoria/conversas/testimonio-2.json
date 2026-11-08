@@ -1,0 +1,25 @@
+{
+  "contactName": "Diego Ramírez",
+  "contactSub": "",
+  "avatarColor": "#b5542e",
+  "dateText": "Hoy",
+  "showDate": true,
+  "showEnc": true,
+  "messages": [
+    {
+      "side": "received",
+      "text": "¿El material trae ideas para combinar colores y decorar?",
+      "time": "14:06"
+    },
+    {
+      "side": "sent",
+      "text": "Sí. Incluye una guía de colores y combinaciones y un catálogo de ideas de decoración para tus cajitas.",
+      "time": "14:10"
+    },
+    {
+      "side": "received",
+      "text": "Me interesa elegir combinaciones para cada ocasión.",
+      "time": "14:13"
+    }
+  ]
+}

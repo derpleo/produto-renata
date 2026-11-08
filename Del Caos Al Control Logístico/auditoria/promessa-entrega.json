@@ -1,0 +1,18 @@
+{
+  "produto": "Del Caos Al Control Logístico",
+  "sha256": "ce75c83541fbcff6d868b1ba9d465ea6a6457867417d46bf62272adfcc1ab37d",
+  "status": "aprovado",
+  "atualizado": "2026-11-07T16:51:03",
+  "verificar": [
+    "produto principal",
+    "benefícios e conteúdos",
+    "quantidades declaradas",
+    "5 bônus",
+    "2 superbônus",
+    "4 order bumps",
+    "Combo de Oro",
+    "formatos entregues"
+  ],
+  "divergencias": [],
+  "acao": "Aprobado tras revision; 0 divergencias"
+}

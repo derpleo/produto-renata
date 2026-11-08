@@ -1,0 +1,25 @@
+{
+  "contactName": "Lucía Fernández",
+  "contactSub": "",
+  "avatarColor": "#a94e68",
+  "dateText": "Hoy",
+  "showDate": true,
+  "showEnc": true,
+  "messages": [
+    {
+      "side": "received",
+      "text": "¿El contenido incluye cómo usar y limpiar las brochas?",
+      "time": "16:21"
+    },
+    {
+      "side": "sent",
+      "text": "Sí. Uno de los bonos explica qué brocha usar y cómo limpiarla. Todo el material se entrega como guías en PDF.",
+      "time": "16:25"
+    },
+    {
+      "side": "received",
+      "text": "Me sirve saber qué herramienta corresponde a cada paso.",
+      "time": "16:28"
+    }
+  ]
+}

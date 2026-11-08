@@ -1,0 +1,139 @@
+{
+  "produto": "Del Caos Al Control Logístico",
+  "regra": "Aprovar somente após inspeção visual das 22 imagens",
+  "atualizado": "2026-11-07T16:51:03",
+  "imagens": {
+    "hero": {
+      "arquivo": "mockups/del-caos-al-control-logistico.png",
+      "sha256": "9639bbd8af1490cb5fc0b0bba70aeffefee9ef528b1692a2c4520978996ae78e",
+      "status": "aprovado",
+      "motivo": "Inspeccion visual OK (montaje revisado por Claude; Codex 22/22 con correcciones aplicadas)"
+    },
+    "adv": {
+      "arquivo": "mockups/imagem-fundo.png",
+      "sha256": "49dc41a1c38e1eb3209907239b93a43c7b5c0d11ba54497a39215763239d826e",
+      "status": "aprovado",
+      "motivo": "Inspeccion visual OK (montaje revisado por Claude; Codex 22/22 con correcciones aplicadas)"
+    },
+    "bono-1": {
+      "arquivo": "mockups/bono-1.png",
+      "sha256": "125fa6ff419cfd5df912c74b7e93caf9513ccfd6e9353216119b3ae41ce78368",
+      "status": "aprovado",
+      "motivo": "Inspeccion visual OK (montaje revisado por Claude; Codex 22/22 con correcciones aplicadas)"
+    },
+    "bono-2": {
+      "arquivo": "mockups/bono-2.png",
+      "sha256": "4194fc4c8c615cb3d66c1e3e85702f36214d823e1526233655fd77f7857f14b9",
+      "status": "aprovado",
+      "motivo": "Inspeccion visual OK (montaje revisado por Claude; Codex 22/22 con correcciones aplicadas)"
+    },
+    "bono-3": {
+      "arquivo": "mockups/bono-3.png",
+      "sha256": "fb1d50a8fe99ad0aba2e2bbb3533c4ec5d1d644ec1d99747494babf64ff3d1b3",
+      "status": "aprovado",
+      "motivo": "Inspeccion visual OK (montaje revisado por Claude; Codex 22/22 con correcciones aplicadas)"
+    },
+    "bono-4": {
+      "arquivo": "mockups/bono-4.png",
+      "sha256": "be4de704ddf34996c9f6a7d04d7c8cbc14d77c5f48a12505c5ea039742d366c6",
+      "status": "aprovado",
+      "motivo": "Inspeccion visual OK (montaje revisado por Claude; Codex 22/22 con correcciones aplicadas)"
+    },
+    "bono-5": {
+      "arquivo": "mockups/bono-5.png",
+      "sha256": "ef47832feb2c6756f498d1830beb903efc56453bff30b5067d13a9b0d14ef964",
+      "status": "aprovado",
+      "motivo": "Inspeccion visual OK (montaje revisado por Claude; Codex 22/22 con correcciones aplicadas)"
+    },
+    "super-1": {
+      "arquivo": "mockups/super-bono-1.png",
+      "sha256": "442d38b3a8edd5c9ca711fc1666c17ee067075626fe2334712c0960e62c8a69d",
+      "status": "aprovado",
+      "motivo": "Inspeccion visual OK (montaje revisado por Claude; Codex 22/22 con correcciones aplicadas)"
+    },
+    "super-2": {
+      "arquivo": "mockups/super-bono-2.png",
+      "sha256": "0058fbc4282dd727c92d0a84f652f8df8ce708865d2cac65ea4ec104b238a4cc",
+      "status": "aprovado",
+      "motivo": "Inspeccion visual OK (montaje revisado por Claude; Codex 22/22 con correcciones aplicadas)"
+    },
+    "bundle": {
+      "arquivo": "mockups/mockup-all.png",
+      "sha256": "1c33426359c7d384588e0ca2c33b86fbb805eaa073d62c6fb1d60e4db87183f6",
+      "status": "aprovado",
+      "motivo": "Inspeccion visual OK (montaje revisado por Claude; Codex 22/22 con correcciones aplicadas)"
+    },
+    "testimonio-1": {
+      "arquivo": "html/img/whatsapp-carolina.png",
+      "sha256": "5ac9884d4416080a30b386c7564579c4cf04687ffeb209db1b5aa2ae8bca525a",
+      "status": "aprovado",
+      "motivo": "Inspeccion visual OK (montaje revisado por Claude; Codex 22/22 con correcciones aplicadas)"
+    },
+    "testimonio-2": {
+      "arquivo": "html/img/whatsapp-diego.png",
+      "sha256": "63cdc44c912f13365a9b048d42a5f76c34dd4cf08f79b534c98ec07174c52db1",
+      "status": "aprovado",
+      "motivo": "Inspeccion visual OK (montaje revisado por Claude; Codex 22/22 con correcciones aplicadas)"
+    },
+    "testimonio-3": {
+      "arquivo": "html/img/whatsapp-lucia.png",
+      "sha256": "dc2af281a6ded2fee93ec667162d8c0671c45bfe701fc2a0847f79364edc16d0",
+      "status": "aprovado",
+      "motivo": "Inspeccion visual OK (montaje revisado por Claude; Codex 22/22 con correcciones aplicadas)"
+    },
+    "ob-1": {
+      "arquivo": "orderbump/produto1/capa_orderbump-1.png",
+      "sha256": "b09ece0ef4bddd887b3feb79dba287ae357593421f010d0fe460532c377168e3",
+      "status": "aprovado",
+      "motivo": "Inspeccion visual OK (montaje revisado por Claude; Codex 22/22 con correcciones aplicadas)"
+    },
+    "ob-2": {
+      "arquivo": "orderbump/produto2/capa_orderbump-2.png",
+      "sha256": "7473635f0ca0cdfb36af7c58bbc0b8ca90e201150b35627d5f360ecb2756ba05",
+      "status": "aprovado",
+      "motivo": "Inspeccion visual OK (montaje revisado por Claude; Codex 22/22 con correcciones aplicadas)"
+    },
+    "ob-3": {
+      "arquivo": "orderbump/produto3/capa_orderbump-3.png",
+      "sha256": "da976ecfa7ecf36130525f7eaaac0fdc8e88b7e4a7203b1016a008101517a290",
+      "status": "aprovado",
+      "motivo": "Inspeccion visual OK (montaje revisado por Claude; Codex 22/22 con correcciones aplicadas)"
+    },
+    "ob-4": {
+      "arquivo": "orderbump/produto4/capa_orderbump-4.png",
+      "sha256": "4abfb084f49d19d3bd67045b2599513af726d74f7b4c6a1c6450969db0b933f1",
+      "status": "aprovado",
+      "motivo": "Inspeccion visual OK (montaje revisado por Claude; Codex 22/22 con correcciones aplicadas)"
+    },
+    "combo": {
+      "arquivo": "orderbump/produto5/capa_combo_de_oro.png",
+      "sha256": "ede7066640c194cccda123cfe6eb0f666af443ad51e6814cd8ca8c1327f638fd",
+      "status": "aprovado",
+      "motivo": "Inspeccion visual OK (montaje revisado por Claude; Codex 22/22 con correcciones aplicadas)"
+    },
+    "criativo-1": {
+      "arquivo": "criativos/criativo-1.png",
+      "sha256": "32d41d83b6277cafd90e92d0585416c9a50119540c8a012c2aab61ab2bf77e53",
+      "status": "aprovado",
+      "motivo": "Inspeccion visual OK (montaje revisado por Claude; Codex 22/22 con correcciones aplicadas)"
+    },
+    "criativo-2": {
+      "arquivo": "criativos/criativo-2.png",
+      "sha256": "74cdb06952e1f12caedb1490d1afd4456e0c283b4497ad434a991828b002d4e2",
+      "status": "aprovado",
+      "motivo": "Inspeccion visual OK (montaje revisado por Claude; Codex 22/22 con correcciones aplicadas)"
+    },
+    "criativo-3": {
+      "arquivo": "criativos/criativo-3.png",
+      "sha256": "3f71560a40c92025df502ff91eabe7aeae450054a37c885c928b937e562a7cd0",
+      "status": "aprovado",
+      "motivo": "Inspeccion visual OK (montaje revisado por Claude; Codex 22/22 con correcciones aplicadas)"
+    },
+    "criativo-4": {
+      "arquivo": "criativos/criativo-4.png",
+      "sha256": "20928131628bd1cfb32a7e37d3308cfcb1f9769a089abed58a26a8ad424e73d8",
+      "status": "aprovado",
+      "motivo": "Inspeccion visual OK (montaje revisado por Claude; Codex 22/22 con correcciones aplicadas)"
+    }
+  }
+}

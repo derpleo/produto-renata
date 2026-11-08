@@ -1,0 +1,18 @@
+{
+  "produto": "Cajitas Creativas Para Imprimir",
+  "sha256": "510af7d5ba73e17a25ab0905becfba294062f100192e127620528f864603da2e",
+  "status": "aprovado",
+  "atualizado": "2026-11-07T16:51:15",
+  "verificar": [
+    "produto principal",
+    "benefícios e conteúdos",
+    "quantidades declaradas",
+    "5 bônus",
+    "2 superbônus",
+    "4 order bumps",
+    "Combo de Oro",
+    "formatos entregues"
+  ],
+  "divergencias": [],
+  "acao": "Aprobado tras revision; 0 divergencias"
+}

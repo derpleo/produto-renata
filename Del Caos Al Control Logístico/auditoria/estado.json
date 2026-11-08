@@ -1,0 +1,16 @@
+{
+ "produto": "Del Caos Al Control Logístico",
+ "estagios": {
+  "concluir": {
+   "status": "ok",
+   "msg": "fiados: 15",
+   "quando": "2026-11-07T16:20:34"
+  },
+  "pronto": {
+   "status": "incompleto",
+   "msg": "INCOMPLETO: Del Caos Al Control Logístico",
+   "quando": "2026-11-07T16:20:57"
+  }
+ },
+ "atualizado": "2026-11-07T16:20:57"
+}

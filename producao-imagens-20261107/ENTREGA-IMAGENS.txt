@@ -1,0 +1,6 @@
+110 imagens entregues: 75 mockups/fotos/capas/combos, 20 criativos, 15 conversas informativas fictícias.
+5 verificações de 22/22, zero falhas; aviso de interface parecida em conversas de Automaquillaje conferido: mensagens distintas.
+Cópias comerciais dos 5 heros em pdf/capa_produto_principal.png, além das 110 imagens dos manifestos.
+Criativos: 2 quadrados e 2 verticais por produto.
+Concluir NÃO executado. HTMLs originais preservados por SHA256. Não foram removidos fundos, fiados slots, extraídas galerias do PDF ou convertidas as pastas.
+A galeria de revisão é index.html nesta pasta. Não equivale ao RELATORIO.md oficial de pronto.

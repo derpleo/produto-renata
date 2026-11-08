@@ -1,0 +1,25 @@
+{
+  "contactName": "Carolina Restrepo",
+  "contactSub": "",
+  "avatarColor": "#b14a72",
+  "dateText": "Hoy",
+  "showDate": true,
+  "showEnc": true,
+  "messages": [
+    {
+      "side": "received",
+      "text": "¿La guía explica el proceso y los cuidados del laminado de cejas?",
+      "time": "10:12"
+    },
+    {
+      "side": "sent",
+      "text": "Sí. La guía principal en PDF organiza el estudio de la técnica. Incluye material complementario de productos y cuidados posteriores.",
+      "time": "10:15"
+    },
+    {
+      "side": "received",
+      "text": "Quiero estudiar primero los pasos y sus precauciones.",
+      "time": "10:18"
+    }
+  ]
+}

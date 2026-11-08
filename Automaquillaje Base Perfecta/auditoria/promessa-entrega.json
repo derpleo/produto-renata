@@ -1,0 +1,18 @@
+{
+  "produto": "Automaquillaje Base Perfecta",
+  "sha256": "929b0772156d062d5ab0097ade96a0899c792457f2d19108cfcee5a5be8caaec",
+  "status": "aprovado",
+  "atualizado": "2026-11-07T16:51:49",
+  "verificar": [
+    "produto principal",
+    "benefícios e conteúdos",
+    "quantidades declaradas",
+    "5 bônus",
+    "2 superbônus",
+    "4 order bumps",
+    "Combo de Oro",
+    "formatos entregues"
+  ],
+  "divergencias": [],
+  "acao": "Aprobado tras revision; 0 divergencias"
+}

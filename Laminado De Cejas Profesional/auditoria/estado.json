@@ -1,0 +1,16 @@
+{
+ "produto": "Laminado De Cejas Profesional",
+ "estagios": {
+  "concluir": {
+   "status": "ok",
+   "msg": "fiados: 16",
+   "quando": "2026-11-07T16:29:18"
+  },
+  "pronto": {
+   "status": "incompleto",
+   "msg": "INCOMPLETO: Laminado De Cejas Profesional",
+   "quando": "2026-11-07T16:29:42"
+  }
+ },
+ "atualizado": "2026-11-07T16:29:42"
+}

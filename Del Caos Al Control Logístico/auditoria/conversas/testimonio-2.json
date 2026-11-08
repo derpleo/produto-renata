@@ -1,0 +1,25 @@
+{
+  "contactName": "Diego Ramírez",
+  "contactSub": "",
+  "avatarColor": "#1f6f78",
+  "dateText": "Hoy",
+  "showDate": true,
+  "showEnc": true,
+  "messages": [
+    {
+      "side": "received",
+      "text": "¿El control de inventario viene como planilla para trabajar?",
+      "time": "14:06"
+    },
+    {
+      "side": "sent",
+      "text": "Sí. Control de Inventario Sin Errores se entrega en formato Excel. También hay checklists de recepción y despacho en planilla.",
+      "time": "14:10"
+    },
+    {
+      "side": "received",
+      "text": "Me interesa revisar esos formatos antes de organizar mi bodega.",
+      "time": "14:13"
+    }
+  ]
+}

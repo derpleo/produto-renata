@@ -1,0 +1,25 @@
+{
+  "contactName": "Lucía Fernández",
+  "contactSub": "",
+  "avatarColor": "#1f6f78",
+  "dateText": "Hoy",
+  "showDate": true,
+  "showEnc": true,
+  "messages": [
+    {
+      "side": "received",
+      "text": "¿El material incluye indicadores para revisar la operación?",
+      "time": "16:21"
+    },
+    {
+      "side": "sent",
+      "text": "Sí. Indicadores de Logística y Plantillas de Gestión de Almacén se entregan como planillas Excel. La guía explica el contexto de la operación.",
+      "time": "16:25"
+    },
+    {
+      "side": "received",
+      "text": "Quiero aprender qué revisar y cómo registrar la información.",
+      "time": "16:28"
+    }
+  ]
+}

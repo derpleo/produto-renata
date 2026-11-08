@@ -1,0 +1,25 @@
+{
+  "contactName": "Diego Ramírez",
+  "contactSub": "",
+  "avatarColor": "#3d6b8a",
+  "dateText": "Hoy",
+  "showDate": true,
+  "showEnc": true,
+  "messages": [
+    {
+      "side": "received",
+      "text": "¿Incluye ejemplos de mensajes para situaciones tensas?",
+      "time": "14:06"
+    },
+    {
+      "side": "sent",
+      "text": "Sí. El super bono Plantillas de Mensajes para Momentos Tensos reúne modelos de comunicación para adaptar a cada contexto.",
+      "time": "14:10"
+    },
+    {
+      "side": "received",
+      "text": "Me interesa estudiar esos ejemplos antes de conversar.",
+      "time": "14:13"
+    }
+  ]
+}

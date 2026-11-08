@@ -1,0 +1,6 @@
+Lote Renata: imagens geradas pela skill capas e image_gen integrada; conversas pelo comando gerar-whatsapp.sh local.
+110 imagens dos manifestos entregues + cópia comercial da capa principal de cada produto em pdf/capa_produto_principal.png.
+NÃO foi executado concluir, pronto, remoção de fundo, wiring da landing, galeria do PDF ou conversão de pastas.
+Prompts e fontes de cada geração estão em auditoria/imagens/registro-geracao.json. As instruções extras de revisão estão em correcoes.json.
+Os manifestos CODEX-PEDIDO foram ajustados para os criativos verticais 3/4 conforme skill capas atual e para o tamanho nativo das conversas locais.
+A revisão humana da oferta e correspondência detalhada com PDFs/planilhas continua necessária; não declarar produto PRONTO só por estes arquivos.

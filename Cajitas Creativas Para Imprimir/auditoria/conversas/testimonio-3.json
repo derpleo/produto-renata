@@ -1,0 +1,25 @@
+{
+  "contactName": "Lucía Fernández",
+  "contactSub": "",
+  "avatarColor": "#b5542e",
+  "dateText": "Hoy",
+  "showDate": true,
+  "showEnc": true,
+  "messages": [
+    {
+      "side": "received",
+      "text": "¿Hay materiales para acompañar las cajitas con etiquetas?",
+      "time": "16:21"
+    },
+    {
+      "side": "sent",
+      "text": "Sí. El kit de etiquetas y tarjetas de regalo y las plantillas de moños y lazos de papel complementan el material principal.",
+      "time": "16:25"
+    },
+    {
+      "side": "received",
+      "text": "Qué bien, quiero ver cómo combinar esos detalles.",
+      "time": "16:28"
+    }
+  ]
+}

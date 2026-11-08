@@ -1,0 +1,16 @@
+{
+ "produto": "Automaquillaje Base Perfecta",
+ "estagios": {
+  "concluir": {
+   "status": "ok",
+   "msg": "fiados: 15",
+   "quando": "2026-11-07T16:33:43"
+  },
+  "pronto": {
+   "status": "incompleto",
+   "msg": "INCOMPLETO: Automaquillaje Base Perfecta",
+   "quando": "2026-11-07T16:34:05"
+  }
+ },
+ "atualizado": "2026-11-07T16:34:05"
+}

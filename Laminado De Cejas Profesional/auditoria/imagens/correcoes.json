@@ -1,0 +1,14 @@
+{
+  "correcoes": {
+    "bono-3": "Checklist representado como planilha XLSX conforme entrega real.",
+    "bono-4": "Somente materiais COSMÉTICOS para laminado de cejas; sem laminadora ou materiais de escritório.",
+    "super-2": "Portfólio somente de sobrancelhas; sem manicure/unhas."
+  },
+  "restricoes_adicionais_lote": [
+    "Sem moeda ou exemplos financeiros nas tabelas",
+    "Sem marcas de software de terceiros",
+    "Formato XLSX quando o bônus real é planilha",
+    "7% de margem branca nos mockups; criativos nativos nos formatos feed/story"
+  ],
+  "concluir_executado": false
+}

@@ -1,0 +1,25 @@
+{
+  "contactName": "Lucía Fernández",
+  "contactSub": "",
+  "avatarColor": "#3d6b8a",
+  "dateText": "Hoy",
+  "showDate": true,
+  "showEnc": true,
+  "messages": [
+    {
+      "side": "received",
+      "text": "¿También aborda conversaciones en el trabajo?",
+      "time": "16:21"
+    },
+    {
+      "side": "sent",
+      "text": "Sí. La Guía de Comunicación en el Trabajo complementa el material con situaciones de comunicación en el entorno laboral.",
+      "time": "16:25"
+    },
+    {
+      "side": "received",
+      "text": "Quiero entender cómo adaptar mis palabras a ese contexto.",
+      "time": "16:28"
+    }
+  ]
+}

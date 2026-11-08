@@ -1,0 +1,16 @@
+{
+ "produto": "El Arte De Tratar Con Personas Difíciles",
+ "estagios": {
+  "concluir": {
+   "status": "ok",
+   "msg": "fiados: 15",
+   "quando": "2026-11-07T16:16:02"
+  },
+  "pronto": {
+   "status": "incompleto",
+   "msg": "INCOMPLETO: El Arte De Tratar Con Personas Difíciles",
+   "quando": "2026-11-07T16:16:30"
+  }
+ },
+ "atualizado": "2026-11-07T16:16:30"
+}

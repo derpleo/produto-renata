@@ -1,0 +1,25 @@
+{
+  "contactName": "Carolina Restrepo",
+  "contactSub": "",
+  "avatarColor": "#a94e68",
+  "dateText": "Hoy",
+  "showDate": true,
+  "showEnc": true,
+  "messages": [
+    {
+      "side": "received",
+      "text": "¿La guía explica cómo preparar la piel antes de aplicar la base?",
+      "time": "10:12"
+    },
+    {
+      "side": "sent",
+      "text": "Sí. El material incluye la preparación de la piel y el orden de aplicación, desde la limpieza hasta el acabado.",
+      "time": "10:15"
+    },
+    {
+      "side": "received",
+      "text": "Me interesa aprender el orden para practicar con calma.",
+      "time": "10:18"
+    }
+  ]
+}
