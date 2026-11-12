@@ -1,0 +1,15 @@
+Título: Sistema Completo de Gestión de Almacén (plantilla lista para usar)
+
+Oferta única: Ya tienes la guía. Ahora llévate el sistema que la pone a andar solo.
+
+Descripción: Del Caos al Control Logístico te enseñó el método. Este es el sistema ya armado para ejecutarlo sin pensar: una plantilla inteligente donde cargas tus productos una vez y ella trabaja por ti. No necesitas instalar nada ni saber de fórmulas, ya viene todo hecho, y funciona igual en Excel y en Google Sheets.
+
+Qué incluye:
+- Inventario con punto de reposición automático: la planilla marca en rojo qué productos hay que reponer antes de que te quedes sin stock.
+- Panel de control: de un vistazo ves el valor de tu inventario, cuántos productos están bajo control y la lista exacta de lo que hay que pedir hoy.
+- Movimientos (entradas y salidas), proveedores y lead times en un solo lugar, todo conectado con fórmulas ya armadas.
+- Guía de implementación paso a paso: lo pones a andar en una tarde.
+
+Por qué ahora: es una oferta única de esta página. Si la cierras, no vuelve a aparecer a este precio.
+
+Precio sugerido: $17 (editable)
